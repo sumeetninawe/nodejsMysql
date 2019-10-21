@@ -1,0 +1,11 @@
+{  
+   "DatabaseConf":{  
+      "host":"127.0.0.1",
+      "database":"EmployeeDB",
+      "user":"root",
+      "password":"Expert1234",
+	  "port":"3306"
+   },
+   "ServerType":"Nodejs"
+   
+}
